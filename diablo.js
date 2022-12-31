@@ -280,20 +280,8 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 0𝗣𝗘𝗡 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 𝗕𝗨𝗚
 𝗠𝗜𝗡𝗔𝗧?𝗣𝗖 𝗢𝗪𝗡𝗘𝗥
 wa.me/6285723219491
-
-diablobotwhatsapp.reply(jiren)
-break 
-		
-case 'othermenu':
-jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
-╠➤  hidetag 
-╠➤  restart 
-╠➤  stats 
-╠➤  akses 
-╠➤  sewa 
-╚══════[ *CLYVV BOTZ* ]══════⊱
 `
-*GAUSAH SOK ASIK LU*
+
 diablobotwhatsapp.reply(jiren)
 break
 		
