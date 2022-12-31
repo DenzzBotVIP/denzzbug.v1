@@ -219,11 +219,12 @@ case 'bugmenu':
 case 'help':
 case 'menu':
 jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 
-┣❏ ᴏᴡɴᴇʀ : wa.me/6285723219491
+┣❏ ᴏᴡɴᴇʀ : 6285723219491
 ┣❏ ɴᴀᴍᴇ ʙᴏᴛ : *BannedVIP*
 ┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
-┗━━⊱ DenzzBanned
-╔══════[ *bugemoji* ]══════⊱
+┗━━⊱
+
+╔══════[ 𝘽𝙐𝙂 𝙈𝙀𝙉𝙐 ]══════⊱
 ╠➤ 🌷 628xxx
 ╠➤ 💀 628xxx
 ╠➤ 🖕 628xxx
@@ -246,8 +247,6 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 ╠➤ 🤣 628xxx
 ╠➤ 😭 628xxx
 ╠➤ 😇 628xxx
-╚════[ *DenzzBanned* ]══════⊱
-╔══════[ *bugganas* ]══════⊱
 ╠➤Clyvvbommemek 628xxx
 ╠➤Clyvvtrava 628xxx
 ╠➤Clyvvtroli2 628xxx
@@ -270,11 +269,11 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 ╚════[ *DenzzBanned* ]══════⊱
 
 ╔══════[ 𝙊𝙒𝙉𝙀𝙍 ]══════⊱
-╠➤  hidetag <
-╠➤  restart <
-╠➤  stats <
-╠➤  akses <
-╠➤  sewa <
+╠➤  hidetag 
+╠➤  restart 
+╠➤  stats 
+╠➤  akses 
+╠➤  sewa 
 ╚══════[ *DenzzBanned* ]══════⊱
 
 𝗢𝗣𝗘𝗡 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 𝗕𝗨𝗚
@@ -286,18 +285,17 @@ break
 
 case 'othermenu':
 jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
-【♡ۣۜۜ፝͜͜͡͡✿➣  • Jangan Di Spam Nanti Kenon 
-【♡ۣۜۜ፝͜͜͡͡✿➣  • Jeda Minimal 5-10Menit
-【♡ۣۜۜ፝͜͜͡͡✿➣  • Langgar Kick No REFF
-【♡ۣۜۜ፝͜͜͡͡✿➣  • Jika Ada Masalah Chat OWNER
-【♡ۣۜۜ፝͜͜͡͡✿➣  • Sewa 10K 1 GROUP
-【♡ۣۜۜ፝͜͜͡͡✿➣  • Jadi Bot 30K
-【♡ۣۜۜ፝͜͜͡͡✿➣  • OWNER : wa.me/6285723219491
+╠➤  hidetag 
+╠➤  restart 
+╠➤  stats 
+╠➤  akses 
+╠➤  sewa 
 ╚══════[ *DenzzBanned* ]══════⊱
 `
-
+*GAUSAH SOK ASIK LU*
 diablobotwhatsapp.reply(jiren)
-break		
+break
+
 case 'akses':
 diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285723219491`)
 break
