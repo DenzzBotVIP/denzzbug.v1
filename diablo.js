@@ -283,32 +283,18 @@ wa.me/6285723219491
 ╠➤Clyvbwargc (linkgcnya)
 ╠➤Clyvv peranggc (linkgcnya)
 ╚════[ *DenzzBanned* ]══════⊱
-` 
+`
 
 diablobotwhatsapp.reply(jiren)
 break 
-		
+
 case 'scmenu':
-jiren = `╔══════[ *scmenu* ]══════⊱
-╠➤ *Ngapain Cari SC Mending Beli Ke Owner Nya Egoo!*
-╠➤ *wa.me/6285723219491*
-╚══════[ *DenzzBanned* ]══════⊱
-`
-
-diablobotwhatsapp.reply(jiren)
-break		
-
-case 'othermenu':
-jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
-╠➤  *Mau Sewa Pm Owner*
-╠➤  *Jeda 5-10Menit*
-╠➤  *Bot On 24jam*
-╠➤  *Melanggar Kick No REFF*
-╠➤  *Bot C1 Berati Kenon*
+jiren = `╔══════[ scmenu ]══════⊱
+╠➤  *Buat Apa Coba Cari Cari Sc Mending Beli Ke Owner*
 ╠➤  *No Owner : wa.me/6285723219491*
 ╚══════[ *DenzzBanned* ]══════⊱
-`
 
+*Gausah Sok Asik Bangsat*
 diablobotwhatsapp.reply(jiren)
 break		
 
