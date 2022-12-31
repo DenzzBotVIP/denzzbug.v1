@@ -266,14 +266,22 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 ╠➤Clyvvotwgc (linkgcnya)
 ╠➤Clyvbwargc (linkgcnya)
 ╠➤Clyvv peranggc (linkgcnya)
-╚════[ *DenzzBanned* ]══════⊱`
+╚════[ *DenzzBanned* ]══════⊱
 
+`
+
+diablobotwhatsapp.reply(jiren)
+break
 case 'akses':
 diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285723219491`)
 break
 case 'sewa':
 diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285723219491')
+
 `
+
+diablobotwhatsapp.reply(jiren)
+break
 case 'restart':{
  if (!isGroup) return diablobotwhatsapp.reply(`wajib dalam grup`)
 if (!isGroupAdmins) return diablobotwhatsapp.reply(`sorry anda sepertinya bukan pemilik bot`)
