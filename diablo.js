@@ -295,10 +295,9 @@ jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
 【♡ۣۜۜ፝͜͜͡͡✿➣  • OWNER : wa.me/6285723219491
 ╚══════[ *DenzzBanned* ]══════⊱
 `
-*GAUSAH SOK ASIK LU*
+
 diablobotwhatsapp.reply(jiren)
-break
-		
+break		
 case 'akses':
 diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285723219491`)
 break
