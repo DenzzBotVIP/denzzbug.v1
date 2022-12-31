@@ -219,15 +219,15 @@ case 'menu':
 jiren = `
 ╔══════[ menu ]══════⊱
 ╠➤ SILAHKAN PILIH MENU DIBAWAH
-╠
-╠➤ bugganas 
+╠➤ bugpm
 ╠➤ othermenu
 ╠➤ downloadsc
 ╠➤ bugemoji
 ╠➤ infomenu
-╠
+╠➤ buggc
 ╠➤ CREDIT : DenzzJB :D 
 ╚════[ *DenzzBanned* ]══════⊱
+
 
 `
 diablobotwhatsapp.reply(jiren)
@@ -262,9 +262,9 @@ jiren = `
 `
 diablobotwhatsapp.reply(jiren)
 break
-case 'bugganas':
+case 'bugpm':
 jiren = `
-╔══════[ bug-emoji ]══════⊱
+╔══════[ bug-pm ]══════⊱
 ╠➤Clyvvbommemek 628xxx
 ╠➤Clyvvtrava 628xxx
 ╠➤Clyvvtroli2 628xxx
@@ -279,11 +279,6 @@ jiren = `
 ╠➤Clyvvperkosa 628xxx
 ╠➤Clyvvgasto 628xxx
 ╠➤Clyvvsendkntl 628xxx
-╠➤Clyvvbuggcmampus (linkgcnya)
-╠➤Clyvv santetgc (linkgcnya)
-╠➤Clyvvotwgc (linkgcnya)
-╠➤Clyvbwargc (linkgcnya)
-╠➤Clyvv peranggc (linkgcnya)
 ╚════[ *DenzzBanned* ]══════⊱
 
 `
@@ -311,6 +306,7 @@ jiren = `
 ┣❏ ɴᴀᴍᴇ ʙᴏᴛ : *BannedVIP*
 ┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
 ┗━━⊱
+
 `
 diablobotwhatsapp.reply(jiren)
 break
@@ -318,6 +314,19 @@ case 'downloadsc':
 jiren = `
 ╔══════[ downloadsc ]══════⊱
 ╠➤ Ciee Cariin Sc Beli Ke Owner ^-^
+╚════[ *DenzzBanned* ]══════⊱
+
+`
+diablobotwhatsapp.reply(jiren)
+break
+case 'buggc':
+jiren = `
+╔══════[ bug-gc ]══════⊱
+╠➤Clyvvbuggcmampus (linkgcnya)
+╠➤Clyvv santetgc (linkgcnya)
+╠➤Clyvvotwgc (linkgcnya)
+╠➤Clyvbwargc (linkgcnya)
+╠➤Clyvv peranggc (linkgcnya)
 ╚════[ *DenzzBanned* ]══════⊱
 
 `
@@ -352,7 +361,7 @@ let ceknye = await diablo.onWhatsApp(bnnd + `@s.whatsapp.net`)
 if (ceknye.length == 0) return reply(`Masukkan Nomor Yang Valid Dan Terdaftar Di WhatsApp!!!`)
 owner.push(bnnd)
 fs.writeFileSync('./database/owner.json', JSON.stringify(owner))
-diablobotwhatsapp.reply(`Nomor ${bnnd} Sudah Bisa Akses!!!`)
+diablobotwhatsapp.reply(`Nomor ${bnnd} Ciee Udah Bisa Akses Awas Jeda👑`)
 break
 case 'del':
 case 'delakses':
@@ -364,7 +373,7 @@ ya = q.split("|")[0].replace(/[^0-9]/g, '')
 unp = owner.indexOf(ya)
 owner.splice(unp, 1)
 fs.writeFileSync('./database/owner.json', JSON.stringify(owner))
-diablobotwhatsapp.reply(`Nomor ${ya} Sudah Tidak Bisa Akses Bot`)
+diablobotwhatsapp.reply(`Nomor ${ya} ngelakuin apa lo sampe di apus?🐤`)
 break
 case 'hidetag': {
  if (!itsMediablo) return diablobotwhatsapp.reply(`sorry anda sepertinya bukan pemilik bot`)
@@ -403,7 +412,7 @@ let timestamp = speed()
 let latensi = speed() - timestamp
 respon = `
 Kecepatan Respon ${latensi.toFixed(4)} _Second_ \nRuntime : ${runtime(process.uptime())}
-💻 Info Server
+💻 Info Run Bots👑
 RAM: ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
 `
 diablobotwhatsapp.reply(respon)
