@@ -22,8 +22,8 @@ chats: {},
 ...(global.db || {})
 }
 
-global.ownerName = 'ClyvvXyzz'
-global.ownerNumber = ["6281394604396@s.whatsapp.net"]
+global.ownerName = 'DenzzBanned'
+global.ownerNumber = ["6285723219491@s.whatsapp.net"]
 global.prefa = ['','.']
 global.mess = {
 wait: 'Wait Sis Please be patient',
@@ -219,77 +219,87 @@ case 'bugmenu':
 case 'help':
 case 'menu':
 jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏 
-┣❏ ᴏᴡɴᴇʀ : 6281394604396
-┣❏ ɴᴀᴍᴇ ʙᴏᴛ : *CLYVV BOTZ*
+┣❏ ᴏᴡɴᴇʀ : wa.me/6285723219491
+┣❏ ɴᴀᴍᴇ ʙᴏᴛ : *BannedVIP*
 ┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
-┗━━⊱
+┗━━⊱ DenzzBanned
 
-╔══════[ 𝘽𝙐𝙂 𝙈𝙀𝙉𝙐 ]══════⊱
-╠➤ 🌷 628xxx
-╠➤ 💀 628xxx
-╠➤ 🖕 628xxx
-╠➤ 👻 628xxx
-╠➤ 🤗 628xxx
-╠➤ 🔥 628xxx
-╠➤ 👽 628xxx
-╠➤ 🗿 628xxx
-╠➤ 😱 628xxx
-╠➤ 🥵 628xxx
-╠➤ 😈 628xxx
-╠➤ 😅 628xxx
-╠➤ 🥶 628xxx
-╠➤ 🤪 628xxx
-╠➤ 😏 628xxx
-╠➤ 🤬 628xxx
-╠➤ 😍 628xxx
-╠➤ 🥰 628xxx
-╠➤ 😗 628xxx
-╠➤ 🤣 628xxx
-╠➤ 😭 628xxx
-╠➤ 😇 628xxx
-╠➤Clyvvbommemek 628xxx
-╠➤Clyvvtrava 628xxx
-╠➤Clyvvtroli2 628xxx
-╠➤Clyvvtroli 628xxx
-╠➤Clyvvcrash 628xxx
-╠➤Clyvvhard 628xxx
-╠➤Clyvvsantet 628xxx
-╠➤Clyvvsantet2 628xxx
-╠➤Clyvvbrutal 628xxx
-╠➤Clyvvawokawok 628xxx
-╠➤Clyvvbully 628xxx
-╠➤Clyvvperkosa 628xxx
-╠➤Clyvvgasto 628xxx
-╠➤Clyvvsendkntl 628xxx
+╔══════[ 𝙊𝙒𝙉𝙀𝙍 ]══════⊱
+╠➤  *hidetag* !
+╠➤  *restart* !
+╠➤  *stats* !
+╠➤  *akses* !
+╠➤  *sewa* !
+╠➤  *scmenu*
+╚══════[ *DenzzBanned* ]══════⊱
+
+𝗢𝗣𝗘𝗡 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 𝗕𝗨𝗚
+𝗠𝗜𝗡𝗔𝗧?𝗣𝗖 𝗢𝗪𝗡𝗘𝗥
+wa.me/6285723219491`
+
+╔══════[ *BugEmoji* ]══════⊱
+╠➤ 🌷 (Nomor Target)
+╠➤ 💀 (Nomor Target)
+╠➤ 🖕 (Nomor Target)
+╠➤ 👻 (Nomor Target)
+╠➤ 🤗 (Nomor Target)
+╠➤ 🔥 (Nomor Target)
+╠➤ 👽 (Nomor Target)
+╠➤ 🗿 (Nomor Target)
+╠➤ 😱 (Nomor Target)
+╠➤ 🥵 (Nomor Target)
+╠➤ 😈 (Nomor Target)
+╠➤ 😅 (Nomor Target)
+╠➤ 🥶 (Nomor Target)
+╠➤ 🤪 (Nomor Target)
+╠➤ 😏 (Nomor Target)
+╠➤ 🤬 (Nomor Target)
+╠➤ 😍 (Nomor Target)
+╠➤ 🥰 (Nomor Target)
+╠➤ 😗 (Nomor Target)
+╠➤ 🤣 (Nomor Target)
+╠➤ 😭 (Nomor Target)
+╠➤ 😇 (Nomor Target)
+╚════[ *DenzzBanned* ]══════⊱
+
+╔══════[ *BugGanas* ]══════⊱
+╠➤Clyvvbommemek (Nomor Target)
+╠➤Clyvvtrava (Nomor Target)
+╠➤Clyvvtroli2 (Nomor Target)
+╠➤Clyvvtroli (Nomor Target)
+╠➤Clyvvcrash (Nomor Target)
+╠➤Clyvvhard (Nomor Target)
+╠➤Clyvvsantet (Nomor Target)
+╠➤Clyvvsantet2 (Nomor Target)
+╠➤Clyvvbrutal (Nomor Target)
+╠➤Clyvvawokawok (Nomor Target)
+╠➤Clyvvbully (Nomor Target)
+╠➤Clyvvperkosa (Nomor Target)
+╠➤Clyvvgasto (Nomor Target)
+╠➤Clyvvsendkntl (Nomor Target)
 ╠➤Clyvvbuggcmampus (linkgcnya)
 ╠➤Clyvv santetgc (linkgcnya)
 ╠➤Clyvvotwgc (linkgcnya)
 ╠➤Clyvbwargc (linkgcnya)
 ╠➤Clyvv peranggc (linkgcnya)
-╚════[ *CLYVV BOTZ* ]══════⊱
-
-╔══════[ 𝙊𝙒𝙉𝙀𝙍 ]══════⊱
-╠➤  hidetag 
-╠➤  restart 
-╠➤  stats 
-╠➤  akses 
-╠➤  sewa 
-╚══════[ *CLYVV BOTZ* ]══════⊱
-
-𝗢𝗣𝗘𝗡 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 𝗕𝗨𝗚
-𝗠𝗜𝗡𝗔𝗧?𝗣𝗖 𝗢𝗪𝗡𝗘𝗥
-wa.me/6281394604396`
+╚════[ *DenzzBanned* ]══════⊱
 
 diablobotwhatsapp.reply(jiren)
 break
 
 case 'othermenu':
+jiren = `╔══════[ *scmenu* ]══════⊱
+╠➤ *Ngapain Cari SC Mending Beli Ke Owner Nya Egoo!*
+╠➤ *wa.me/6285723219491*
+
+case 'othermenu':
 jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
-╠➤  hidetag 
-╠➤  restart 
-╠➤  stats 
-╠➤  akses 
-╠➤  sewa 
+╠➤  *Mau Sewa Pm Owner*
+╠➤  *Jeda 5-10Menit*
+╠➤  *Bot On 24jam*
+╠➤  *Melanggar Kick No REFF*
+╠➤  *Bot C1 Berati Kenon*
+╠➤  *No Owner : wa.me/6285723219491*
 ╚══════[ *CLYVV BOTZ* ]══════⊱
 `
 *GAUSAH SOK ASIK LU*
@@ -297,10 +307,10 @@ diablobotwhatsapp.reply(jiren)
 break
 
 case 'akses':
-diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6281394604396`)
+diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285723219491`)
 break
 case 'sewa':
-diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6281394604396')
+diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285723219491')
 
 case 'restart':{
  if (!isGroup) return diablobotwhatsapp.reply(`wajib dalam grup`)
