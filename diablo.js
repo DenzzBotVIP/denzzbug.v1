@@ -223,45 +223,45 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 ┣❏ ɴᴀᴍᴇ ʙᴏᴛ : *BannedVIP*
 ┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
 ┗━━⊱ DenzzBanned
-╔══════[ *bugemoji*]══════⊱
-╠➤ 🌷 (Nomor Target)
-╠➤ 💀 (Nomor Target)
-╠➤ 🖕 (Nomor Target)
-╠➤ 👻 (Nomor Target)
-╠➤ 🤗 (Nomor Target)
-╠➤ 🔥 (Nomor Target)
-╠➤ 👽 (Nomor Target)
-╠➤ 🗿 (Nomor Target)
-╠➤ 😱 (Nomor Target)
-╠➤ 🥵 (Nomor Target)
-╠➤ 😈 (Nomor Target)
-╠➤ 😅 (Nomor Target)
-╠➤ 🥶 (Nomor Target)
-╠➤ 🤪 (Nomor Target)
-╠➤ 😏 (Nomor Target)
-╠➤ 🤬 (Nomor Target)
-╠➤ 😍 (Nomor Target)
-╠➤ 🥰 (Nomor Target)
-╠➤ 😗 (Nomor Target)
-╠➤ 🤣 (Nomor Target)
-╠➤ 😭 (Nomor Target)
-╠➤ 😇 (Nomor Target)
+╔══════[ *bugemoji* ]══════⊱
+╠➤ 🌷 628xxx
+╠➤ 💀 628xxx
+╠➤ 🖕 628xxx
+╠➤ 👻 628xxx
+╠➤ 🤗 628xxx
+╠➤ 🔥 628xxx
+╠➤ 👽 628xxx
+╠➤ 🗿 628xxx
+╠➤ 😱 628xxx
+╠➤ 🥵 628xxx
+╠➤ 😈 628xxx
+╠➤ 😅 628xxx
+╠➤ 🥶 628xxx
+╠➤ 🤪 628xxx
+╠➤ 😏 628xxx
+╠➤ 🤬 628xxx
+╠➤ 😍 628xxx
+╠➤ 🥰 628xxx
+╠➤ 😗 628xxx
+╠➤ 🤣 628xxx
+╠➤ 😭 628xxx
+╠➤ 😇 628xxx
 ╚════[ *DenzzBanned* ]══════⊱
 ╔══════[ *bugganas* ]══════⊱
-╠➤Clyvvbommemek (Nomor Target)
-╠➤Clyvvtrava (Nomor Target)
-╠➤Clyvvtroli2 (Nomor Target)
-╠➤Clyvvtroli (Nomor Target)
-╠➤Clyvvcrash (Nomor Target)
-╠➤Clyvvhard (Nomor Target)
-╠➤Clyvvsantet (Nomor Target)
-╠➤Clyvvsantet2 (Nomor Target)
-╠➤Clyvvbrutal (Nomor Target)
-╠➤Clyvvawokawok (Nomor Target)
-╠➤Clyvvbully (Nomor Target)
-╠➤Clyvvperkosa (Nomor Target)
-╠➤Clyvvgasto (Nomor Target)
-╠➤Clyvvsendkntl (Nomor Target)
+╠➤Clyvvbommemek 628xxx
+╠➤Clyvvtrava 628xxx
+╠➤Clyvvtroli2 628xxx
+╠➤Clyvvtroli 628xxx
+╠➤Clyvvcrash 628xxx
+╠➤Clyvvhard 628xxx
+╠➤Clyvvsantet 628xxx
+╠➤Clyvvsantet2 628xxx
+╠➤Clyvvbrutal 628xxx
+╠➤Clyvvawokawok 628xxx
+╠➤Clyvvbully 628xxx
+╠➤Clyvvperkosa 628xxx
+╠➤Clyvvgasto 628xxx
+╠➤Clyvvsendkntl 628xxx
 ╠➤Clyvvbuggcmampus (linkgcnya)
 ╠➤Clyvv santetgc (linkgcnya)
 ╠➤Clyvvotwgc (linkgcnya)
@@ -270,18 +270,32 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 ╚════[ *DenzzBanned* ]══════⊱
 
 ╔══════[ 𝙊𝙒𝙉𝙀𝙍 ]══════⊱
-╠➤  *hidetag* !
-╠➤  *restart* !
-╠➤  *stats* !
-╠➤  *akses* !
-╠➤  *sewa* !
+╠➤  hidetag <
+╠➤  restart <
+╠➤  stats <
+╠➤  akses <
+╠➤  sewa <
 ╚══════[ *DenzzBanned* ]══════⊱
 
-0𝗣𝗘𝗡 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 𝗕𝗨𝗚
+𝗢𝗣𝗘𝗡 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 𝗕𝗨𝗚
 𝗠𝗜𝗡𝗔𝗧?𝗣𝗖 𝗢𝗪𝗡𝗘𝗥
-wa.me/6285723219491
-`
+wa.me/6285723219491`
 
+diablobotwhatsapp.reply(jiren)
+break
+
+case 'othermenu':
+jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
+【♡ۣۜۜ፝͜͜͡͡✿➣  • Jangan Di Spam Nanti Kenon 
+【♡ۣۜۜ፝͜͜͡͡✿➣  • Jeda Minimal 5-10Menit
+【♡ۣۜۜ፝͜͜͡͡✿➣  • Langgar Kick No REFF
+【♡ۣۜۜ፝͜͜͡͡✿➣  • Jika Ada Masalah Chat OWNER
+【♡ۣۜۜ፝͜͜͡͡✿➣  • Sewa 10K 1 GROUP
+【♡ۣۜۜ፝͜͜͡͡✿➣  • Jadi Bot 30K
+【♡ۣۜۜ፝͜͜͡͡✿➣  • OWNER : wa.me/6285723219491
+╚══════[ *DenzzBanned* ]══════⊱
+`
+*GAUSAH SOK ASIK LU*
 diablobotwhatsapp.reply(jiren)
 break
 		
