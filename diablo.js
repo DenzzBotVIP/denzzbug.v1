@@ -282,9 +282,7 @@ wa.me/6285723219491
 ╠➤Clyvvotwgc (linkgcnya)
 ╠➤Clyvbwargc (linkgcnya)
 ╠➤Clyvv peranggc (linkgcnya)
-╚════[ *DenzzBanned* ]══════⊱
-
-`
+╚════[ *DenzzBanned* ]══════⊱`
 
 diablobotwhatsapp.reply(jiren)
 break 
@@ -294,6 +292,7 @@ jiren = `╔══════[ scmenu ]══════⊱
 ╠➤  *No Owner : wa.me/6285723219491*
 ╚════[ *DenzzBanned* ]══════⊱ 
 
+*Mau Sewa Bot Mohon Pm Ke Owner Ya Jngan Asak Culik BOT*
 `
 
 diablobotwhatsapp.reply(jiren)
