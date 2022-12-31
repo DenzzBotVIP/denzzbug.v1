@@ -308,7 +308,7 @@ jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
 ╠➤  *No Owner : wa.me/6285723219491*
 ╚══════[ *DenzzBanned* ]══════⊱
 `
-*GAUSAH SOK ASIK LU*
+
 diablobotwhatsapp.reply(jiren)
 break
 
