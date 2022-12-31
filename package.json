@@ -1,5 +1,5 @@
 {
-  "name": "VAREL-Botz",
+  "name": "DenzzBanned",
   "version": "1.2.3",
   "description": "Jangan Ubah Nama Di Atas",
   "main": "next.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Grizly9",
+  "author": "DenzzBanned",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.3.0",
