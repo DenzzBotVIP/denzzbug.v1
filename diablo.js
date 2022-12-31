@@ -266,34 +266,8 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 ╠➤Clyvvotwgc (linkgcnya)
 ╠➤Clyvbwargc (linkgcnya)
 ╠➤Clyvv peranggc (linkgcnya)
-╚════[ *DenzzBanned* ]══════⊱
+╚════[ *DenzzBanned* ]══════⊱`
 
-╔══════[ 𝙊𝙒𝙉𝙀𝙍 ]══════⊱
-╠➤  hidetag 
-╠➤  restart 
-╠➤  stats 
-╠➤  akses 
-╠➤  sewa 
-╚══════[ *DenzzBanned* ]══════⊱
-
-𝗢𝗣𝗘𝗡 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 𝗕𝗨𝗚
-𝗠𝗜𝗡𝗔𝗧?𝗣𝗖 𝗢𝗪𝗡𝗘𝗥
-wa.me/6285723219491`
-
-diablobotwhatsapp.reply(jiren)
-break
-
-case 'othermenu':
-jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
-╠➤  hidetag 
-╠➤  restart 
-╠➤  stats 
-╠➤  akses 
-╠➤  sewa 
-╚══════[ *DenzzBanned* ]══════⊱
-`
-diablobotwhatsapp.reply(jiren)
-break
 case 'akses':
 diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285723219491`)
 break
