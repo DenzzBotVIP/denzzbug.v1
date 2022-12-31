@@ -292,16 +292,14 @@ jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
 ╠➤  sewa 
 ╚══════[ *DenzzBanned* ]══════⊱
 `
-*GAUSAH SOK ASIK LU*
 diablobotwhatsapp.reply(jiren)
 break
-
 case 'akses':
 diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285723219491`)
 break
 case 'sewa':
 diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285723219491')
-
+`
 case 'restart':{
  if (!isGroup) return diablobotwhatsapp.reply(`wajib dalam grup`)
 if (!isGroupAdmins) return diablobotwhatsapp.reply(`sorry anda sepertinya bukan pemilik bot`)
