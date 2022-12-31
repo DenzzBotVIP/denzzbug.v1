@@ -224,6 +224,19 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 ┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
 ┗━━⊱ DenzzBanned
 
+╔══════[ 𝙊𝙒𝙉𝙀𝙍 ]══════⊱
+╠➤  *hidetag* !
+╠➤  *restart* !
+╠➤  *stats* !
+╠➤  *akses* !
+╠➤  *sewa* !
+╠➤  *scmenu*
+╚══════[ *DenzzBanned* ]══════⊱
+
+𝗢𝗣𝗘𝗡 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 𝗕𝗨𝗚
+𝗠𝗜𝗡𝗔𝗧?𝗣𝗖 𝗢𝗪𝗡𝗘𝗥
+wa.me/6285723219491
+
 ╔══════[ *bugemoji*]══════⊱
 ╠➤ 🌷 (Nomor Target)
 ╠➤ 💀 (Nomor Target)
@@ -270,27 +283,20 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 ╠➤Clyvbwargc (linkgcnya)
 ╠➤Clyvv peranggc (linkgcnya)
 ╚════[ *DenzzBanned* ]══════⊱
-
-╔══════[ 𝙊𝙒𝙉𝙀𝙍 ]══════⊱
-╠➤  *hidetag* !
-╠➤  *restart* !
-╠➤  *stats* !
-╠➤  *akses* !
-╠➤  *sewa* !
-╠➤  *scmenu*
-╚══════[ *DenzzBanned* ]══════⊱
-
-𝗢𝗣𝗘𝗡 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 𝗕𝗨𝗚
-𝗠𝗜𝗡𝗔𝗧?𝗣𝗖 𝗢𝗪𝗡𝗘𝗥
-wa.me/6285723219491`
+` 
 
 diablobotwhatsapp.reply(jiren)
-break
-
-case 'othermenu':
+break 
+		
+case 'scmenu':
 jiren = `╔══════[ *scmenu* ]══════⊱
 ╠➤ *Ngapain Cari SC Mending Beli Ke Owner Nya Egoo!*
 ╠➤ *wa.me/6285723219491*
+╚══════[ *DenzzBanned* ]══════⊱
+`
+
+diablobotwhatsapp.reply(jiren)
+break		
 
 case 'othermenu':
 jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
@@ -300,7 +306,7 @@ jiren = `╔══════[ 𝙊𝙏𝙃𝙀𝙍 ]══════⊱
 ╠➤  *Melanggar Kick No REFF*
 ╠➤  *Bot C1 Berati Kenon*
 ╠➤  *No Owner : wa.me/6285723219491*
-╚══════[ *CLYVV BOTZ* ]══════⊱
+╚══════[ *DenzzBanned* ]══════⊱
 `
 *GAUSAH SOK ASIK LU*
 diablobotwhatsapp.reply(jiren)
