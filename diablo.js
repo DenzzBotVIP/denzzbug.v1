@@ -237,7 +237,7 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 𝗠𝗜𝗡𝗔𝗧?𝗣𝗖 𝗢𝗪𝗡𝗘𝗥
 wa.me/6285723219491`
 
-╔══════[ *BugEmoji* ]══════⊱
+╔══════[ *bugmenu* ]══════⊱
 ╠➤ 🌷 (Nomor Target)
 ╠➤ 💀 (Nomor Target)
 ╠➤ 🖕 (Nomor Target)
@@ -262,7 +262,7 @@ wa.me/6285723219491`
 ╠➤ 😇 (Nomor Target)
 ╚════[ *DenzzBanned* ]══════⊱
 
-╔══════[ *BugGanas* ]══════⊱
+╔══════[ *bugganas* ]══════⊱
 ╠➤Clyvvbommemek (Nomor Target)
 ╠➤Clyvvtrava (Nomor Target)
 ╠➤Clyvvtroli2 (Nomor Target)
