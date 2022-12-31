@@ -267,19 +267,7 @@ jiren = `┏━━⊱ 𝙄𝙉𝙁𝙊 𝘽𝙊𝙏
 ╠➤Clyvbwargc (linkgcnya)
 ╠➤Clyvv peranggc (linkgcnya)
 ╚════[ *DenzzBanned* ]══════⊱
-
 `
-
-diablobotwhatsapp.reply(jiren)
-break
-case 'akses':
-diablobotwhatsapp.reply(`UNTUK AKSES BOT CHAT OWNER : wa.me/6285723219491`)
-break
-case 'sewa':
-diablobotwhatsapp.reply(`UNTUK SEWA BOT CHAT OWNER : wa.me/6285723219491')
-
-`
-
 diablobotwhatsapp.reply(jiren)
 break
 case 'restart':{
