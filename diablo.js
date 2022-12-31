@@ -292,11 +292,10 @@ case 'scmenu':
 jiren = `╔══════[ scmenu ]══════⊱
 ╠➤  *Buat Apa Coba Cari Cari Sc Mending Beli Ke Owner*
 ╠➤  *No Owner : wa.me/6285723219491*
-╚══════[ *DenzzBanned* ]══════⊱
+╚════[ *DenzzBanned* ]══════⊱ 
 
 `
 
-*Gausah Sok Asik Bangsat*
 diablobotwhatsapp.reply(jiren)
 break		
 case 'akses':
