@@ -225,6 +225,7 @@ jiren = `
 ╠➤ bugemoji
 ╠➤ infomenu
 ╠➤ buggc
+╠➤ semuamenu
 ╠➤ CREDIT : DenzzJB :D 
 ╚════[ *DenzzBanned* ]══════⊱
 
@@ -330,6 +331,81 @@ jiren = `
 ╚════[ *DenzzBanned* ]══════⊱
 
 `
+diablobotwhatsapp.reply(jiren)
+break
+case 'semuamenu':
+jiren = `
+┏━━⊱ infomenu
+┣❏ ᴏᴡɴᴇʀ : 6285723219491
+┣❏ ɴᴀᴍᴇ ʙᴏᴛ : *BannedVIP*
+┣❏ ʀᴜɴɴɪɴɢ : ᴘᴀɴᴇʟᴏɴʟʏ
+┗━━⊱
+
+╔══════[ bug-emoji ]══════⊱
+╠➤ 🌷 628xxx
+╠➤ 💀 628xxx
+╠➤ 🖕 628xxx
+╠➤ 👻 628xxx
+╠➤ 🤗 628xxx
+╠➤ 🔥 628xxx
+╠➤ 👽 628xxx
+╠➤ 🗿 628xxx
+╠➤ 😱 628xxx
+╠➤ 🥵 628xxx
+╠➤ 😈 628xxx
+╠➤ 😅 628xxx
+╠➤ 🥶 628xxx
+╠➤ 🤪 628xxx
+╠➤ 😏 628xxx
+╠➤ 🤬 628xxx
+╠➤ 😍 628xxx
+╠➤ 🥰 628xxx
+╠➤ 😗 628xxx
+╠➤ 🤣 628xxx
+╠➤ 😭 628xxx
+╠➤ 😇 628xxx
+╚════[ *DenzzBanned* ]══════⊱
+
+╔══════[ bug-pm ]══════⊱
+╠➤Clyvvbommemek 628xxx
+╠➤Clyvvtrava 628xxx
+╠➤Clyvvtroli2 628xxx
+╠➤Clyvvtroli 628xxx
+╠➤Clyvvcrash 628xxx
+╠➤Clyvvhard 628xxx
+╠➤Clyvvsantet 628xxx
+╠➤Clyvvsantet2 628xxx
+╠➤Clyvvbrutal 628xxx
+╠➤Clyvvawokawok 628xxx
+╠➤Clyvvbully 628xxx
+╠➤Clyvvperkosa 628xxx
+╠➤Clyvvgasto 628xxx
+╠➤Clyvvsendkntl 628xxx
+╚════[ *DenzzBanned* ]══════⊱
+
+╔══════[ bug-gc ]══════⊱
+╠➤Clyvvbuggcmampus (linkgcnya)
+╠➤Clyvv santetgc (linkgcnya)
+╠➤Clyvvotwgc (linkgcnya)
+╠➤Clyvbwargc (linkgcnya)
+╠➤Clyvv peranggc (linkgcnya)
+╚════[ *DenzzBanned* ]══════⊱
+
+╔══════[ othermenu ]══════⊱
+╠➤ Jangan Di Spam Nanti Kenon 
+╠➤ Jeda Minimal 5-10Menit
+╠➤ Langgar Kick No REFF
+╠➤ Jika Ada Masalah Chat OWNER
+╠➤ Sewa 20K 1 GROUP
+╠➤ Jadi Bot 30K
+╠➤ OWNER : wa.me/6285723219491
+╚════[ *DenzzBanned* ]══════⊱
+
+╔══════[ downloadsc ]══════⊱
+╠➤ Ciee Cariin Sc Beli Ke Owner ^-^
+╚════[ *DenzzBanned* ]══════⊱
+`
+
 diablobotwhatsapp.reply(jiren)
 break
 case 'restart':{
