@@ -101,7 +101,7 @@ if (typeof chats !== 'object') global.db.chats[diablobotwhatsapp.chat] = {}
 console.error(err)
 }
 
-if (!diablo.private) {
+if (!diablo.public) {
 if (!diablobotwhatsapp.key.fromMe) return
 }
 
