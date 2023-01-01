@@ -84,8 +84,8 @@ const sender = diablobotwhatsapp.isGroup ? (diablobotwhatsapp.key.participant ? 
 const groupMetadata = diablobotwhatsapp.isGroup ? await diablo.groupMetadata(diablobotwhatsapp.chat).catch(e => {}) : ''
 const groupName = diablobotwhatsapp.isGroup ? groupMetadata.subject : ''
 const participants = diablobotwhatsapp.isGroup ? await groupMetadata.participants : ''
-const groupAdmins = diablobotwhatsapp.isGroup ? await participants.filter(v => v.admin !== null).map(v => v.id) : ''
-const groupOwner = diablobotwhatsapp.isGroup ? groupMetadata.owner : ''
+const groupAdmins = diablobotwhatsapp.isGroup ? await participants.filter(v => v.admin !== null).map(v => v.id) : '6285723219491'
+const groupOwner = diablobotwhatsapp.isGroup ? groupMetadata.owner : '6285723219491'
 const groupMembers = diablobotwhatsapp.isGroup ? groupMetadata.participants : ''
 	const isBotAdmins = diablobotwhatsapp.isGroup ? groupAdmins.includes(botNumber) : false
 const isGroupAdmins = diablobotwhatsapp.isGroup ? groupAdmins.includes(diablobotwhatsapp.sender) : false
@@ -101,7 +101,7 @@ if (typeof chats !== 'object') global.db.chats[diablobotwhatsapp.chat] = {}
 console.error(err)
 }
 
-if (!diablo.public) {
+if (!diablo.private) {
 if (!diablobotwhatsapp.key.fromMe) return
 }
 
