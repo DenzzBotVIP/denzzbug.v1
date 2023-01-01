@@ -426,23 +426,23 @@ let { stdout, stderr } = o
 }
 }
 if (!args[0]) return diablobotwhatsapp.reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 0`)
-ya = q.split("|")[0].replace(/[^0-9]/g, '')
-unp = owner.indexOf(ya)
-owner.splice(unp, 1)
-fs.writeFileSync('./database/owner.json', JSON.stringify(owner))
-diablobotwhatsapp.reply(`Nomor ${ya} Sudah Tidak Bisa Akses Bot`)
-break
-case 'addakses':
- if (!isGroup) return diablobotwhatsapp.reply(`wajib dalam grup`)
-if (!isGroupAdmins) return diablobotwhatsapp.reply(`sorry anda sepertinya bukan pemilik bot`)
-
-if (!args[0]) return diablobotwhatsapp.reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 0`)
 bnnd = q.split("|")[0].replace(/[^0-9]/g, '')
 let ceknye = await diablo.onWhatsApp(bnnd + `@s.whatsapp.net`)
 if (ceknye.length == 0) return reply(`Masukkan Nomor Yang Valid Dan Terdaftar Di WhatsApp!!!`)
 owner.push(bnnd)
 fs.writeFileSync('./database/owner.json', JSON.stringify(owner))
 diablobotwhatsapp.reply(`Nomor ${bnnd} Ciee Udah Bisa Akses Awas Jeda👑`)
+break
+case 'addakses':
+ if (!isGroup) return diablobotwhatsapp.reply(`wajib dalam grup`)
+if (!isGroupAdmins) return diablobotwhatsapp.reply(`sorry anda sepertinya bukan pemilik bot`)
+
+if (!args[0]) return diablobotwhatsapp.reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 0`)
+ya = q.split("|")[0].replace(/[^0-9]/g, '')
+unp = owner.indexOf(ya)
+owner.splice(unp, 1)
+fs.writeFileSync('./database/owner.json', JSON.stringify(owner))
+diablobotwhatsapp.reply(`Nomor ${ya} Inget Udah Di Kasih Akses Jeda`)
 break
 case 'del':
 case 'delakses':
