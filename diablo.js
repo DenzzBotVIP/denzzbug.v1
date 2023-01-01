@@ -425,8 +425,13 @@ let exec = promisify(cp.exec).bind(cp)
 let { stdout, stderr } = o
 }
 }
+if (!args[0]) return diablobotwhatsapp.reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 0`)
+ya = q.split("|")[0].replace(/[^0-9]/g, '')
+unp = owner.indexOf(ya)
+owner.splice(unp, 1)
+fs.writeFileSync('./database/owner.json', JSON.stringify(owner))
+diablobotwhatsapp.reply(`Nomor ${ya} Sudah Tidak Bisa Akses Bot`)
 break
-case 'add':
 case 'addakses':
  if (!isGroup) return diablobotwhatsapp.reply(`wajib dalam grup`)
 if (!isGroupAdmins) return diablobotwhatsapp.reply(`sorry anda sepertinya bukan pemilik bot`)
